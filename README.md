@@ -1,4 +1,4 @@
-# LLM Council
+My Flow training experiments # LLM Council
 
 ![llmcouncil](header.jpg)
 
